@@ -19,9 +19,9 @@ The two tracking flows are separate. Signing in does not migrate browser-local r
 
 ## What I contributed
 
-Hajar's work connects **discovery to follow-through**: dashboard search and goal starters, search controls, persistent three-item comparison, My Journey action plans, Opportunity Brief presentation and the browser-local affordability scenario editor. Responsive layouts, keyboard access and visible source/unknown states are part of that work.
+Peris's work connects the product to live data and the demo room: the Gmail integration that updates application statuses automatically from company emails, real-time dashboard cards and follow-up counts, the coffee-chat experience with AI-analysed comments and 21-day reminders, the backend backbone (database schema, email sign-in, edge functions, Lovable Cloud), and the scripted customer-pitch video. 
 
-Teammates owned CV extraction, retrieval/source-quality improvements and eligibility verification. The digital-finance teammate owned the pure calculator integration. These boundaries are reflected in the shared TypeScript contracts and adapters.
+Teammates owned CV extraction, retrieval/source quality, and eligibility verification; the finance teammate owned the calculator integration — boundaries kept through shared TypeScript contracts.
 
 ## Decisions that protect the user
 
